@@ -1,13 +1,3 @@
-/*
- * Demonstrate how to display a two color, black and white bitmap image with no
- * transparency.
- *
- * The original source image is from:
- *  <http://openclipart.org/detail/26728/aiga-litter-disposal-by-anonymous>
- *
- * The source image was converted from an SVG into a RGB bitmap using Inkscape.
- * It has no transparency and uses only black and white as colors.
- */
 
 #include "pebble.h"
 
