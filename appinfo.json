@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "garanda",
+    "longName": "BitmapHandle",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/battery_full.png",
+                "name": "BATTERY_FULL",
+                "type": "png"
+            },
+            {
+                "file": "images/no_litter.png",
+                "name": "IMAGE_NO_LITTER",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "BitmapHandle",
+    "uuid": "751ea9ce-aee8-46fb-a659-154c6252415f",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
